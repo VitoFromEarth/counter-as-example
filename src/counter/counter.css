@@ -1,0 +1,14 @@
+.action-row {
+	display: flex;
+	gap: 10px;
+}
+
+.decrement {
+	background-color: #f44336;
+	color: white;
+}
+
+.increment {
+	background-color: #4caf50;
+	color: white;
+}
